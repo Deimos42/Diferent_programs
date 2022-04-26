@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1525553191 source:n:\лабы\4 семестр\технологии программирования\laba1-1\laba1-011\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"header.h"
+
+1525553070 n:\лабы\4 семестр\технологии программирования\laba1-1\laba1-011\header.h
+	"stddef.h"
+
+1525553730 source:n:\лабы\4 семестр\технологии программирования\laba1-1\laba1-011\header.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstring>
+	"header.h"
+	"stddef.h"
+
+1525708040 source:n:\лабы\4 семестр\технологии программирования\laba1-011\header.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstring>
+	"header.h"
+	"stddef.h"
+
+1525553070 n:\лабы\4 семестр\технологии программирования\laba1-011\header.h
+	"stddef.h"
+
+1526924212 source:n:\лабы\4 семестр\технологии программирования\laba1-011\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"header.h"
+
+1525708040 source:g:\ЛАБЫ\4 семестр\технологии программирования\laba1-011\header.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstring>
+	"header.h"
+	"stddef.h"
+
+1525553070 g:\ЛАБЫ\4 семестр\технологии программирования\laba1-011\header.h
+	"stddef.h"
+
+1525708013 source:g:\ЛАБЫ\4 семестр\технологии программирования\laba1-011\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"header.h"
+
+1525708040 source:d:\work\мои файлы\лабы2\4 семестр\технологии программирования\laba1-011\header.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstring>
+	"header.h"
+	"stddef.h"
+
+1525553070 d:\work\мои файлы\лабы2\4 семестр\технологии программирования\laba1-011\header.h
+	"stddef.h"
+
+1526924212 source:d:\work\мои файлы\лабы2\4 семестр\технологии программирования\laba1-011\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"header.h"
+
+1525708040 source:c:\users\admin\onedrive\рабочий стол\новая папка (2)\c++\4 семестр\laba1-011(многочлены)(4)\header.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstring>
+	"header.h"
+	"stddef.h"
+
+1525553070 c:\users\admin\onedrive\рабочий стол\новая папка (2)\c++\4 семестр\laba1-011(многочлены)(4)\header.h
+	"stddef.h"
+
+1526924212 source:c:\users\admin\onedrive\рабочий стол\новая папка (2)\c++\4 семестр\laba1-011(многочлены)(4)\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"header.h"
+
+1525708040 source:c:\users\admin\desktop\программы\c++\4 семестр\laba1-011(многочлены)(4)\header.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstring>
+	"header.h"
+	"stddef.h"
+
+1525553070 c:\users\admin\desktop\программы\c++\4 семестр\laba1-011(многочлены)(4)\header.h
+	"stddef.h"
+
+1526924212 source:c:\users\admin\desktop\программы\c++\4 семестр\laba1-011(многочлены)(4)\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"header.h"
+
