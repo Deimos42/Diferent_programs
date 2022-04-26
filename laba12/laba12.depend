@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1515532072 source:d:\work\мои файлы\с++\laba12\main.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header.h"
+	"head_d.h"
+	"header.cpp"
+	"header_d.cpp"
+
+1515438314 source:d:\work\мои файлы\с++\laba12\header.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header.h"
+
+1515479873 source:d:\work\мои файлы\с++\laba12\deck.cpp
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header_d.cpp"
+
+1515530890 d:\work\мои файлы\с++\laba12\header.h
+
+1515438314 d:\work\мои файлы\с++\laba12\header.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header.h"
+
+1515530904 d:\work\мои файлы\с++\laba12\head_d.h
+	<cassert>
+
+1515438314 source:k:\лабы\3 семестр\с++\laba12\header.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header.h"
+
+1515359845 k:\лабы\3 семестр\с++\laba12\header.h
+
+1515479873 source:k:\лабы\3 семестр\с++\laba12\deck.cpp
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header_d.cpp"
+
+1515479588 k:\лабы\3 семестр\с++\laba12\header_d.cpp
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"head_d.h"
+
+1515459282 k:\лабы\3 семестр\с++\laba12\head_d.h
+	<cassert>
+
+1515479588 source:k:\лабы\3 семестр\с++\laba12\header_d.cpp
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"head_d.h"
+
+1515480061 source:k:\лабы\3 семестр\с++\laba12\main.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header.cpp"
+	"header_d.cpp"
+
+1515438314 k:\лабы\3 семестр\с++\laba12\header.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header.h"
+
+1515479873 source:k:\лабы\3 семестр\с++\laba12\list1.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header.cpp"
+
+1515532081 d:\work\мои файлы\с++\laba12\header_d.cpp
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"head_d.h"
+
+1515532081 source:d:\work\мои файлы\с++\laba12\header_d.cpp
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"head_d.h"
+
+1515438314 source:c:\users\admin\desktop\программы\c++\laba12(стоит разобрать)\header.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header.h"
+
+1515530890 c:\users\admin\desktop\программы\c++\laba12(стоит разобрать)\header.h
+
+1515532081 source:c:\users\admin\desktop\программы\c++\laba12(стоит разобрать)\header_d.cpp
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"head_d.h"
+
+1515530904 c:\users\admin\desktop\программы\c++\laba12(стоит разобрать)\head_d.h
+	<cassert>
+
+1515532072 source:c:\users\admin\desktop\программы\c++\laba12(стоит разобрать)\main.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header.h"
+	"head_d.h"
+	"header.cpp"
+	"header_d.cpp"
+
+1515438314 c:\users\admin\desktop\программы\c++\laba12(стоит разобрать)\header.cpp
+	<iostream>
+	<cassert>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"header.h"
+
+1515532081 c:\users\admin\desktop\программы\c++\laba12(стоит разобрать)\header_d.cpp
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstdio>
+	<iomanip>
+	"head_d.h"
+

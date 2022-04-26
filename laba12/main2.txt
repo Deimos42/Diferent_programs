@@ -1,0 +1,197 @@
+#include <iostream>
+#include <cassert>
+#include <cstdlib>
+#include <ctime>
+#include <stdio.h>
+#include <cstdio>
+
+
+template <class T>
+class TStack
+{
+   protected:
+      struct TNode
+      {
+         T value;
+         TNode* next;
+      }* stack;
+
+   public:
+      TStack(): stack(NULL) { ; }
+
+      ~TStack()
+      {
+         Clear();
+      }
+
+      TStack<T>& Push(T value)
+      {
+         TNode* node = new TNode();
+         node->value = value;
+         node->next = stack;
+
+         stack = node;
+
+         return *this;
+      }
+
+      T Pop()
+      {
+         assert(stack != NULL);
+         T value = stack->value;
+         TNode* node = stack;
+         stack = stack->next;
+         delete node;
+
+         return value;
+      }
+
+      T Top() const
+      {
+         assert(stack != NULL);
+
+         return stack->value;
+      }
+
+      bool IsNull() const
+      {
+         return (stack == NULL);
+      }
+
+      void Clear()
+      {
+         for (; !IsNull(); Pop());
+      }
+
+      friend std::ostream& operator << (std::ostream& os, const TStack<T>& stack)
+      {
+         typename TStack<T>::TNode* node = stack.stack;
+
+         for (; node; node = node->next)
+         {
+            os << node->value << " ";
+         }
+
+         return os;
+      }
+};
+
+
+void Read_file(char *fname,TStack<int> list1)
+{
+    int num;
+    FILE *fout;
+    fout=fopen(fname,"a+");
+
+    for(int i = 0; i < 7; i++) // 7 заменить
+    {
+        fscanf(fout,"%d",&num);
+        list1.Push(num);
+    }
+
+    fclose(fout);
+    std::cout << list1 << std::endl;
+}
+
+
+int main()
+{
+    srand(time(NULL));
+    TStack<int> list1;
+    int ask;
+    Read_file("list.txt",list1);
+
+    for(int i = 0; i < 7; i++) // 7 заменить
+    {
+         //ask = list1;
+    }
+
+    return 0;
+
+}
+
+
+
+
+/*
+   srand(time(NULL));
+
+   TStack<int> list1;
+   TStack<char> list2;
+
+   for (size_t i = 0; i < 10; ++i)
+   {
+      list1.Push(rand() % 100);
+      list2.Push('a' + (rand()%26));
+   }
+
+   std::cout << list1 << std::endl
+             << list2 << std::endl;
+
+   system("pause");
+
+   return 0;
+*/
+
+
+
+
+/*
+
+//#include "stdafx.h"
+#include <iostream>
+
+using namespace std;
+
+template<typename T>
+struct Link{
+    T* data;
+    Link* next;
+};
+
+template<typename T>
+class List{
+    Link<T>* first;
+public:
+    List() :first(nullptr){}
+    ~List(){
+        Link<T> *current = first;
+        while (current != nullptr){
+            Link<T>* temp = current;
+            current = current->next;
+            delete temp;
+        }
+        cerr << "Deleted" << endl;
+    }
+
+    void add(int d)           //добавление в начало
+    {
+        Link<T>* newlink = new Link;
+        newlink->data = d;
+        newlink->next = first;
+        first = newlink;
+    }
+    void show()
+    {
+        Link<T>* current = first;
+        while (current)
+        {
+            cout << current->data << endl;
+            current = current->next;
+        }
+    }
+};
+
+int _tmain(int argc, _TCHAR* argv[]){
+    List LS;
+    int n = 3;
+    for (int i = 0; i < n; i++){
+        LS.add(i);
+    }
+
+    LS.show();
+
+    _gettch();
+    return 0;
+}
+*/
