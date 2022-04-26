@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1526760051 source:n:\лабы\4 семестр\технологии программирования\laba2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<stdio.h>
+	<cstdlib>
+	"header.h"
+
+1526763473 source:n:\лабы\4 семестр\технологии программирования\laba2\header.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstring>
+	"header.h"
+	"stddef.h"
+
+1526762791 n:\лабы\4 семестр\технологии программирования\laba2\header.h
+	"stddef.h"
+
+1526760051 source:g:\ЛАБЫ\4 семестр\технологии программирования\laba2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<stdio.h>
+	<cstdlib>
+	"header.h"
+
+1526991917 source:g:\ЛАБЫ\4 семестр\технологии программирования\laba2\header.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstring>
+	"header.h"
+	"stddef.h"
+
+1526991820 g:\ЛАБЫ\4 семестр\технологии программирования\laba2\header.h
+	"stddef.h"
+
+1526991917 source:d:\work\мои файлы\лабы2\4 семестр\технологии программирования\laba2\header.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<cstring>
+	"header.h"
+	"stddef.h"
+
+1526991820 d:\work\мои файлы\лабы2\4 семестр\технологии программирования\laba2\header.h
+	"stddef.h"
+
+1526760051 source:d:\work\мои файлы\лабы2\4 семестр\технологии программирования\laba2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<stdio.h>
+	<cstdlib>
+	"header.h"
+
