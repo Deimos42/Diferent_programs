@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1523566182 source:g:\ЛАБЫ\4 семестр\структуры данных и методы программирования\sort3\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<time.h>
+	<ctime>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1523564505 source:n:\лабы\4 семестр\структуры данных и методы программирования\sort3\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<time.h>
+	<ctime>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1523566182 source:d:\work\мои файлы\лабы2\4 семестр\структуры данных и методы программирования\sort3\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<time.h>
+	<ctime>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
+1523566182 source:c:\users\admin\desktop\программы\c++\4 семестр\sort3(3)\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<time.h>
+	<ctime>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+
